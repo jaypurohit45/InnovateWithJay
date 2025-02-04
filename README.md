@@ -1,0 +1,1 @@
+This project is a simple Number Guessing Game, where the user tries to guess a randomly generated number. It's a great beginner project to learn HTML, CSS, and JavaScript, and it will help you understand how to work with GitHub for version control and project hosting.
